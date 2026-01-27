@@ -1,4 +1,4 @@
-# 💫 About Me:
+![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhvaGd6M3hvM3Nyc2g0bWgyenJwbXA2a2piYjZ3cGJ2cGhkbDZldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
 👋HI, It's Varna here !<br>📚 I am currently doing B.E CSE (Cybersecurity)<br>💻 Passionate about coding, AI/ML, and secure systems.  <br>🚀 Currently learning: Advanced Python & backend frameworks<br>
 
 
