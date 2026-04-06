@@ -78,6 +78,13 @@ class HariVarna:
 | ➗ [**Math Duel**](https://github.com/HariVarna/Math-Duel-for-Mathematics_Day-25) | Competitive math game built for Mathematics Day 2025 — real-time duels, timed challenges | HTML · CSS · JS |
 ---
 ## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313eujh26sddkzmrzq44vttq3tem&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313eujh26sddkzmrzq44vttq3tem&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d1a&interchange=true&bar_color=00fff2&bar_color_cover=false" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x47cbvoe4kyfr72esa7x3ciywi&count=1&unique=true" width="600" />
 </p>
