@@ -77,7 +77,6 @@ class HariVarna:
 | 🎨 [**String Art**](https://github.com/HariVarna/String_Art_App) | Algorithmic string art generator — turns images into nail-and-thread patterns using math | Python · OpenCV · NumPy |
 | ➗ [**Math Duel**](https://github.com/HariVarna/Math-Duel-for-Mathematics_Day-25) | Competitive math game built for Mathematics Day 2025 — real-time duels, timed challenges | HTML · CSS · JS |
 ---
-## 🎵 Now Playing
 
 ## 🎵 Now Playing
 
