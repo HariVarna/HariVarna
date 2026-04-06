@@ -25,7 +25,13 @@ class HariVarna:
     def hello(self):
         return "Let's build something that matters. 💻"
 ````
+## 🎵 Currently Vibing To
 
+<p align="center">
+  <a href="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB">
+    <img src="https://img.shields.io/badge/Smooth%20Criminal-Michael%20Jackson-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
