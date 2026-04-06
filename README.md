@@ -15,7 +15,7 @@
 class HariVarna:
     def __init__(self):
         self.name       = "Hari Varna"
-        self.role       = "CSE Student @ KGiSL Institute of Technology"
+        self.role       = "Cyber Student @ KGiSL Institute of Technology"
         self.focus      = ["Cybersecurity", "AI & ML", "Backend Development"]
         self.currently  = "Curious to try new things 🔍"
         self.learning   = "Backend Frameworks (Flask, FastAPI) ⚙️"
