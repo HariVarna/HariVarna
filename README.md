@@ -20,18 +20,11 @@ class HariVarna:
         self.currently  = "Curious to try new things 🔍"
         self.learning   = "Backend Frameworks (Flask, FastAPI) ⚙️"
         self.ask_me     = ["Python", "AI/ML", "CTF Challenges", "Linux"]
-        self.fun_fact   = "🎵 Smooth Criminal has been playing in my head since forever"
 
     def hello(self):
         return "Let's build something that matters. 💻"
 ````
-## 🎵 Currently Vibing To
 
-<p align="center">
-  <a href="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB">
-    <img src="https://img.shields.io/badge/Smooth%20Criminal-Michael%20Jackson-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -83,6 +76,15 @@ class HariVarna:
 | 🤟 [**SignFlow**](https://github.com/HariVarna/SignFlow_Landing_Page) | Real-time ASL recognition & captioning — An accessibility breakthrough technology that provides real-time sign language recognition and caption generation. | Python · Transformers · OpenCV · Gemini |
 | 🎨 [**String Art**](https://github.com/HariVarna/String_Art_App) | Algorithmic string art generator — turns images into nail-and-thread patterns using math | Python · OpenCV · NumPy |
 | ➗ [**Math Duel**](https://github.com/HariVarna/Math-Duel-for-Mathematics_Day-25) | Competitive math game built for Mathematics Day 2025 — real-time duels, timed challenges | HTML · CSS · JS |
+---
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d1a&interchange=false&bar_color=00fff2&bar_color_cover=false" />
+  </a>
+</p>
+---
 
 ## 🌐 Connect With Me
 
