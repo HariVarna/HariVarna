@@ -74,11 +74,9 @@ class HariVarna:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤟 [**SignFlow**](https://github.com/HariVarna/SignFlow) | Real-time ASL recognition & captioning — 621 signs, 79.72% accuracy, sub-15ms inference | Python · Transformers · OpenCV · Gemini |
-| 🥋 [**Japan Badminton Court**](https://github.com/HariVarna) | Dark Japan-inspired website for an indoor badminton facility in Sirumugai | HTML · CSS · JS |
-| 🔐 [**CTF Exploits**](https://github.com/HariVarna) | Writeups & scripts — Solidity, OSINT, BIP39, smart contract hacks | Python · Solidity · OSINT |
-
----
+| 🤟 [**SignFlow**](https://github.com/HariVarna/SignFlow_Landing_Page) | Real-time ASL recognition & captioning — An accessibility breakthrough technology that provides real-time sign language recognition and caption generation. | Python · Transformers · OpenCV · Gemini |
+| 🎨 [**String Art**](https://github.com/HariVarna/String_Art_App) | Algorithmic string art generator — turns images into nail-and-thread patterns using math | Python · OpenCV · NumPy |
+| ➗ [**Math Duel**](https://github.com/HariVarna/Math-Duel-for-Mathematics_Day-25) | Competitive math game built for Mathematics Day 2025 — real-time duels, timed challenges | HTML · CSS · JS |
 
 ## 🌐 Connect With Me
 
