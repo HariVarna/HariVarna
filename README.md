@@ -80,8 +80,8 @@ class HariVarna:
 ## 🎵 Now Playing
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d1a&interchange=false&bar_color=00fff2&bar_color_cover=false" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313eujh26sddkzmrzq44vttq3tem&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313eujh26sddkzmrzq44vttq3tem&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d1a&interchange=true&bar_color=00fff2&bar_color_cover=false" />
   </a>
 </p>
 ---
